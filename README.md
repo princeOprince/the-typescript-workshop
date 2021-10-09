@@ -1,1 +1,1 @@
-# the-typescript-workshop
+# The TypeScript Workshop
